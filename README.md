@@ -1,9 +1,8 @@
+<img src="https://github.com/Hilarioo/adhesive-unity/blob/main/assets/img/adhesive-unity.png" width="150" />
+
 # Adhesive Unity
 
 Adhesive Unity was a non-profit creation developed by two college students looking to **empower the BLM Movement**. Our due dilligence allowed us to produce a profitable product, market our product through organic social media posts, and donate the profit to non-profit organizations. 
-
-<img src="https://github.com/Hilarioo/adhesive-unity/blob/main/assets/img/adhesive-unity.png" width="150" />
-
 
 ### Social Media
 
